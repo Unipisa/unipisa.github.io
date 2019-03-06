@@ -81,7 +81,7 @@ function sendAddRepoReq(){
 function sendContactReq(){
     var failedExtras = verifyContactExtras();
     
-    // console.log(failedExtras);
+    //console.log(failedExtras);
 
     if(failedExtras.length == 0){
         var formData = {};
@@ -234,7 +234,7 @@ var CallTypeEnum = {
 }
 
 function awsCall(callType, jsonObj){
-    req_message.text = "...";
+    req_message.text = callType + jsonObj;//"...";
     req_message.style.color = "grey";
     req_message.style.fontWeight = "900";
 
@@ -244,7 +244,8 @@ function awsCall(callType, jsonObj){
             endPoint = "https://qz7961lmqi.execute-api.us-east-1.amazonaws.com/prod/add_repo";
             break;
         case CallTypeEnum.CONTACT_US:
-            endPoint = "https://qz7961lmqi.execute-api.us-east-1.amazonaws.com/prod/contact_us";
+            endPoint = "https://hii7fuxz90.execute-api.us-east-1.amazonaws.com/dev/sendEmail";
+            //"https://qz7961lmqi.execute-api.us-east-1.amazonaws.com/prod/contact_us";
             break;
         case CallTypeEnum.FEATURD_REPO:
             endPoint = "https://qz7961lmqi.execute-api.us-east-1.amazonaws.com/prod/feature_repo";
@@ -257,7 +258,7 @@ function awsCall(callType, jsonObj){
     var verifyReq = createCORSRequest("POST", endPoint);
 
     if (!verifyReq) {
-        alert('CORS not supported -- Contact us at <github-g@vt.edu>');
+        alert('CORS not supported'); //TODO: inserire email ufficiale -- Contact us at <github-g@vt.edu>');
         return;
     }
 
@@ -275,8 +276,9 @@ function awsCall(callType, jsonObj){
             req_message.text = messages[1];
             req_message.style.color = "red";
         }else{
-            req_message.text = "Something broke: status error " + this.status +
-                                "<br>Consider contacting us directly at github-g@vt.edu";
+            req_message.text = "Something broke: status error " + this.status ;
+            //TODO: impostare email ufficile contatti                
+            //+ "<br>Consider contacting us directly at github-g@vt.edu";
             req_message.style.color = "orange";
         }
 
