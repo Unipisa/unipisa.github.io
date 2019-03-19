@@ -17,7 +17,7 @@ We want students, faculty, and staff to share their on-going projects through th
 # How can I contact the GitHub Coordinators?
 
 
-We want your feedback! Do you have a cool idea you think fits into what we're trying to do? Or maybe you just want to say hello. Regardless of if it's critique, praise, or sharing an idea, we love getting your input. You can send us an email by filling out the form below.
+We want your feedback! Do you have a cool idea you think fits into what we're trying to do? Regardless of if it's critique, praise, or sharing an idea, we love getting your input. You can send us an email by filling out the form below.
 <!--, or by contacting us directly through <github-g@vt.edu>.TODO: inserire email ufficiale-->
 
 # **Contact us!**

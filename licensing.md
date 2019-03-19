@@ -19,7 +19,7 @@ Giving a license to your content is an important part of sharing things via Gith
 <span style= "color:#159957">Licensing FAQ</span>
 </a>
 {: style="text-align: center;"} 
-Have a licensing question that isn’t answered here? Contact us, at <github-g@vt.edu>. 
+Have a licensing question that isn’t answered here? [Contact us !]({{site.baseurl}}/about_us) 
 {: style="text-align: center;"} 
 ---
 

@@ -25,7 +25,7 @@ The FAQ portion of this site aims to answer common questions posed by new Organi
 <span style= "color:#159957">About Projects</span>  
 </a>
 {: style="text-align: center;"} 
-Have a question that isn’t answered here?  **[Contact us !]({{site.baseurl}}/about_us** 
+Have a question that isn’t answered here?  **[Contact us !]({{site.baseurl}}/about_us)** 
 {: style="text-align: center;"} 
 ---
 
