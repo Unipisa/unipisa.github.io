@@ -14,7 +14,7 @@ Featured Repositories offer you the chance to get your Organization Repository i
 ---  
 
 ## **Perks of Featured Repositories**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1.** Repository is pinned to the top of the VT Organization website  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1.** Repository is pinned to the top of the Unipisa Organization website  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2.** Repository is showcased on the *Featured Repositories* section of the VT GitHub Pages website  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.** Repository is tweeted about by our twitter account, [@VT_GitHub_Org](https://twitter.com/VT_GitHub_Org)  
 
@@ -29,7 +29,7 @@ Featured Repository requests get submitted directly to the GitHub Coordinators f
 
 To be clear, the same Repository ***can*** apply for a Featured Repository position multiple times. The only two restrictions to applying is that you cannot submit for a Featured Repository spot if you currently occupy one and that applying Repositories must be public in the Organization. We also ask that you do not submit an application if one is already pending.  
 
-Consider that Repository content on the VT Organization can range from personal Python projects, to informative Java coding problem sets, to ongoing research projects, and everything in between. Also consider that the GitHub Coordinators may not know your projects language/architecture/etc. When applying for a Featured Repository position, keep these things in mind but do not hesitate to make your Repository sound as awesome as it can - because ultimately, that will be the primary aspect in determining Featured Repositories. Most applications will be reviewed and replied to in a week's time or less.  
+Consider that Repository content on the Unipisa Organization can range from personal Python projects, to informative Java coding problem sets, to ongoing research projects, and everything in between. Also consider that the GitHub Coordinators may not know your projects language/architecture/etc. When applying for a Featured Repository position, keep these things in mind but do not hesitate to make your Repository sound as awesome as it can - because ultimately, that will be the primary aspect in determining Featured Repositories. Most applications will be reviewed and replied to in a week's time or less.  
 
 ---  
 

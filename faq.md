@@ -3,9 +3,6 @@ layout: content
 permalink: /faq
 ---
 
-
-[//]: # (Look into putting each About ... into a drop-down menu. Such that when About... text is pressed, the Q&As for that About... section are displayed. Or have anchors to each one, which can be navigated from the green About... text)
-
 # **Frequently Asked Questions**
 {: style="text-align: center;"}
 ---
@@ -13,7 +10,7 @@ permalink: /faq
 The FAQ portion of this site aims to answer common questions posed by new Organization members.  
 {: style="text-align: center;"}   
 <a href="#VTOrganizationMembership">
-<span style= "color:#159957">About VT Organization Membership</span>  
+<span style= "color:#159957">About Unipisa Organization Membership</span>  
 </a>
 <a href="#Repositories">
 <span style= "color:#159957">About Repositories</span>  
@@ -28,17 +25,15 @@ The FAQ portion of this site aims to answer common questions posed by new Organi
 <span style= "color:#159957">About Projects</span>  
 </a>
 {: style="text-align: center;"} 
-Have a question that isn’t answered here? Contact us, at <github-g@vt.edu>. 
+Have a question that isn’t answered here?  **[Contact us !]({{site.baseurl}}/about_us** 
 {: style="text-align: center;"} 
 ---
 
-## **<a name = "VTOrganizationMembership" class= "content-anchor"></a>About VT Organization Membership**
+## **<a name = "VTOrganizationMembership" class= "content-anchor"></a>About Unipisa Organization Membership**
 ---
 
-#### **Q**: How do I become a member of the VT GitHub Organization?
-**A**: Membership to the VT GitHub Organization is limited to current and former Virginia Tech staff and students, through invitation only. To register for membership, visit the Virginia Tech GitHub Page and navigate to the **[Join Organization]({{site.baseurl}}join_organization)** section. Once there, enter your GitHub account username and VT email address. A verification email will be sent to the supplied VT email address. Once verified, an invitation to join the VT Organization will be sent to the email address associated with your GitHub account. 
-
-_Note: Verification emails will only be sent to @vt.edu email addresses._
+#### **Q**: How do I become a member of the Unipisa GitHub Organization?
+**A**: Membership to the Unipisa GitHub Organization is limited to current Università di Pisa faculty, staff and students, through invitation only. To register for membership, visit the Università di Pisa GitHub Page and navigate to the **[Join Organization]({{site.baseurl}}join_organization)** section. Once there, enter your GitHub account username and unipi email address. A verification email will be sent to the supplied institutional email address. Once verified, an invitation to join the Unipisa Organization will be sent to the email address associated with your GitHub account. 
 
 #### **Q**: As a member, what can and can’t I do?
 **A**: You **can** view the profiles and public teams of other members. You **can** apply for your repository to be added to the Organization; refer to _[About Repositories]({{site.baseurl}}#Repositories)_. You **can** create Teams; refer to _[About Teams]({{site.baseurl}}#Teams)_. You **can** create Organization Projects; refer to _[About Projects]({{site.baseurl}}#Projects)_. You **cannot** create/transfer repositories from your account directly to the Organization. You **cannot** invite other users to the Organization. You **cannot** push to repositories that you do not have write access to.
@@ -47,35 +42,37 @@ _Note: Verification emails will only be sent to @vt.edu email addresses._
 ## **<a name = "Repositories" class= "content-anchor"></a>About Repositories**
 ---
 
-#### **Q**: How do I add my repository into the VT GitHub Organization?
-**A**: Public VT GitHub Organization members can only add a repository by emailing an application for their repository to the owners of the VT Organization through the **[Add Repository]({{site.baseurl}}add_repository)** section. If the application is approved, an owner from the VT Organization will fork your repository into the organization. Since all permissions are wiped when the repository is forked, the owner will grant you admin privileges to the forked repository. If the application is denied, an owner for the VT GitHub Organization will provide you with an explanation of why your repository was denied in an email response.
+#### **Q**: How do I add my repository into the Unipisa GitHub Organization?
+**A**: Public Unipisa GitHub Organization members can only add a repository by emailing an application for their repository to the owners of the Unipisa Organization through the **[Add Repository]({{site.baseurl}}add_repository)** section. If the application is approved, an owner from the Unipisa Organization will fork your repository into the organization. Since all permissions are wiped when the repository is forked, the owner will grant you admin privileges to the forked repository. If the application is denied, an owner for the Unipisa GitHub Organization will provide you with an explanation of why your repository was denied in an email response.
 
-_Note: Before submitting an application, members should verify that their prospective repository meets the policies required by the VT GitHub Organization._
 
-#### **Q**: Can I add a repository that is private?
-**A**: Typically, no. The VT GitHub Organization is meant for public repositories. Private repositories should be stored at [code.vt.edu](https://code.vt.edu){:target="_blank"}. However, there may be some exceptions to this rule.
+<!-- #### **Q**: Can I add a repository that is private?
+**A**: Typically, no. The Unipisa GitHub Organization is meant for public repositories. Private repositories should be stored at [code.vt.edu](https://code.vt.edu){:target="_blank"}. However, there may be some exceptions to this rule.
 
 #### **Q**: What is code.vt.edu?
 **A**: [Code.vt.edu](https://code.vt.edu){:target="_blank"}, previously known as [git.it.vt.edu](https://git.it.vt.edu){:target="_blank"}, supports collaborative software development in both functional and distributed teams with mature and capable tools such as distributed development workflows, wikis, issue tracking, CI/CD, and Docker repository hosting. The self-service model developed has created a friction-free process to easily request and quickly deliver these services to faculty and staff. 
+-->
 
-#### **Q**: Am I required to provide an open-source software license for the repository I would like to add to the VT Organization?
+#### **Q**: Am I required to provide an open-source software license for the repository I would like to add to the Unipisa Organization?
 **A**: See this **[Licensing]({{site.baseurl}}licensing#LicensingFAQ)** section.
 
-#### **Q**: As a VT Organization member, can I create a repository within the organization?
-**A**: No, repositories can not be created within the organization. Repositories can only be added to the organization through forking by a VT Organization owner.
-
-#### **Q**: As a VT Organization member, can I delete a repository within the organization?
+<!--
+#### **Q**: As a Unipisa Organization member, can I create a repository within the organization?
+**A**: No, repositories can not be created within the organization. Repositories can only be added to the organization through forking by a Unipisa Organization owner.
+-->
+#### **Q**: As a Unipisa Organization member, can I delete a repository within the organization?
 **A**: As a member, you can only delete a repository to which you have admin permissions to.
 
-#### **Q**: As a VT organization member and the admin of a forked repository on the Organization, how can I manage permissions to the repository?
-**A**: As an admin, you can manage permissions by creating new teams or adding existing teams to a repository. More information about GitHub Teams can be found [here]({{site.baseurl}}#Teams). An admin can also add individual collaborators to a repository with read, write, or admin privileges. Unlike VT Organization teams, individual collaborators do not need to be members within the VT Organization.
+#### **Q**: As a Unipisa Organization member and the admin of a forked repository on the Organization, how can I manage permissions to the repository?
+**A**: As an admin, you can manage permissions by creating new teams or adding existing teams to a repository. More information about GitHub Teams can be found [here]({{site.baseurl}}#Teams). An admin can also add individual collaborators to a repository with read, write, or admin privileges. Unlike Unipisa Organization teams, individual collaborators do not need to be members within the Unipisa Organization.
 
+<!-- 
 #### **Q**: What are featured repositories?
 **A**: Featured repositories show up at the top of the Organization’s Home page as well as part of the Organization's 'Pinned Repositories' section on GitHub and offer an increase in exposure. Featured repositories are also tweeted about via our [@VT_GitHub_Org](https://twitter.com/VT_GitHub_Org) (follow us!) Twitter account. Newly featured repositories will stay featured for 10 days. There can only be a max of six featured repositories at a time. Repositories that are currently featured **should not** apply for additional featured-time, but should instead wait until after their featured-time expires. The goal of this Organization is to give exposure to VT code projects, so a queue of featured repositories may be formed simply through an excess of feature-worthy applications.
 
 #### **Q**: How do I get my repository featured?
 **A**: To request your repository to be featured, you will need to apply through the **[Featured Repositories]({{site.baseurl}}featured_repos)** webpage. While it is not necessary, a repository README would help Organization users understand the purpose of your repository. Consider member demand for featured repositories when applying for featured Repositories; don’t feel discouraged if your repository does not get featured after your first attempt!
-
+-->
 
 
 ## **<a name = "Teams" class= "content-anchor"></a>About Teams**
@@ -84,8 +81,10 @@ _Note: Before submitting an application, members should verify that their prospe
 #### **Q**: What is a GitHub team?
 **A**: Teams are a way for organization members to manage permissions to repositories within the organization.
 
+Please have a look at [here](https://help.github.com/en/articles/about-teams) and [here](https://resources.github.com/webcasts/Organizing-Work-with-GitHub-thankyou/) for documentation about GitHub Teams and their usage.
+
 #### **Q**: Who can create a team?
-**A**: Any VT Organization member can create a team.
+**A**: Any Unipisa Organization member can create a team.
 
 #### **Q**: Who can edit a team’s settings (ie. team name, description, visibility)?
 **A**: Only the team’s maintainers can edit the team’s settings.
@@ -108,10 +107,10 @@ _Note: Before submitting an application, members should verify that their prospe
 #### **Q**: How do I become a team maintainer?
 **A**: You can become a team maintainer by getting one of the current team maintainers to promote you. As expected, when you create your own team you become the team maintainer of your new team by default.
 
-#### **Q**: Can I be on multiple teams within the VT Organization?
+#### **Q**: Can I be on multiple teams within the Unipisa Organization?
 **A**: Yes, you can be on as many teams as you want.
 
-#### **Q**: Can I be a team maintainer of multiple teams within the VT Organization?
+#### **Q**: Can I be a team maintainer of multiple teams within the Unipisa Organization?
 **A**: Yes, you can.
 
 

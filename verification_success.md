@@ -10,7 +10,7 @@ permalink: /verification_success
 ## An invitation has been sent to your GitHub account.
 {:style="text-align: center;"}
 
-### After accepting the invitation, make sure to set yourself as a ***PUBLIC*** member of the VT Organization!  
+### After accepting the invitation, make sure to set yourself as a ***PUBLIC*** member of the Unipisa Organization!  
 {:style="text-align: center;"}  
 
 **1)** After accepting your invitation, navigate to the **People** tab:
