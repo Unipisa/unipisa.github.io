@@ -18,36 +18,21 @@ Applying to add your Repository to the Organization is easy:
 The information you give will then be sent to the GitHub Coordinators for review. You should hear back from us with the result of your application within a week. If you have not heard back from us in over a week, please re-apply your Repository.
 
 ---
-
-## **Repository Restrictions**  
---**Only public Virginia Tech Organization members can apply their Repository**--  
-{:style="text-align:center"}
-All applying Repositories **must** adhere to the Virginia Tech [Policies](http://www.policies.vt.edu/index.php) and [Honor Code](http://honorsystem.vt.edu/HSConstitution/honor_code_manual_and_policy.html). Any Repositories that break these guidelines will be denied. Some examples of unacceptable Repositories include: Course-Snipers, for-class programming HW/Projects, code malicious in nature, etc.  
-The applying Repositories must be owned by an applicate who is a **public** member of the Unipisa GitHub Organization.
-
----
-Have questions? Contact us, at <github-g@vt.edu>.
+Have questions? [Contact us !]({{site.baseurl}}/about_us) 
 {: style="text-align: center;"} 
 ---
 
 
-<b>Name</b> <font size="2.5rem"> (required) </font><br>
-<input class="rounded" name="name" placeholder="" id="name_field"><br><br>
-<b>Contact Email</b> <font size="2.5rem"> (required) </font><br>
-<input class="rounded" name="email" placeholder="" id="email_field"><br><br>
-<b>GitHub Username</b> <font size="2.5rem"> (required) </font><br>
-<input class="rounded" name="github_username" placeholder="" id="username_field"><br><br>
-<b>Repository Name</b> <font size="2.5rem"> (required) </font><br>
-<input class="rounded" name="repository_name" placeholder="" id="repository_field"><br><br>
-<b>Repository Description</b><font size="2.5rem"> (required)</font>
-<textarea class="rounded" name="description" id="description_field" placeholder="" style="min-height:14rem; min-width:16rem"></textarea>
-<b>Opensource license</b><br>
-<input class="rounded" name="license" placeholder="" id="license_field"><br><br>
-<!-- <div class="g-recaptcha" data-sitekey="6LcKlhcUAAAAAACUoRI5vsV3194GDQAMscIP_bC3" disabled></div><br> -->
-By clicking Send you validate that this repository does not violate the Virginia Tech [Policies](http://www.policies.vt.edu/index.php) nor [Honor Code](http://honorsystem.vt.edu/HSConstitution/honor_code_manual_and_policy.html).
-{:text-align=center;}
-<input type="submit" value="Send" onclick="sendAddRepoReq()"><br><br>
-<a style="text-decoration: none" class="" name="req_message" id="req_message"><a/><br>
+<form method="POST" action="https://formspree.io/%67%75%69%64%6f%2e%73%63%61%74%65%6e%61@%75%6e%69%70%69%2e%69%74">
+  <input  class="rounded" type="email" name="email" placeholder="Your email">
+  <input  class="rounded" name="message" placeholder="Your GitHub account">
+    <input  class="rounded" name="message" placeholder="Repository Name">
+      <input type="textarea" class="rounded" name="message" placeholder="Repository Description">
+            <input  class="rounded" name="message" placeholder="Opensource licence">
+  <input class="rounded" type="submit" value ="Send">
+  <input type="hidden" name="_subject" value="NEW REPOSITORY" />
+</form>
+
 
 
 <script
