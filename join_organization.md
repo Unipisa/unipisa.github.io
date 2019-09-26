@@ -7,7 +7,7 @@ permalink: /join_organization
 ---
 
 
-To join the Unipisa organizzation on GitHub pleas fill [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=MWtFxyCi9Ue-Ukc4KGcKoVkYUXAKGZRAiclN1st5aFpUMFRYOVRIUjJIT0JJMERMMTFCRTI2VVoySi4u).
+To join the Unipisa organizzation on GitHub please fill [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=MWtFxyCi9Ue-Ukc4KGcKoVkYUXAKGZRAiclN1st5aFpUMFRYOVRIUjJIT0JJMERMMTFCRTI2VVoySi4u).
 
 
 ---
