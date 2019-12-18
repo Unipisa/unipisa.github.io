@@ -3,7 +3,6 @@ layout: content
 permalink: /students
 
 # **Get GitHub Student Developement Pack**
-{:style="text-align: center;"}
 ---
 
 As student of Univeristà di Pisa you can get a free  [Student Developer Pack](https://education.github.com/pack).
