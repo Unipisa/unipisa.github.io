@@ -1,6 +1,6 @@
 # unipisa.github.io
 
-Official (Università di Pisa)[https://unipi.it] GitHub organizzation page 
+Official [Università di Pisa](https://unipi.it) GitHub organizzation page 
 
 ...under contruction.. 
 
