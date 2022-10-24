@@ -13,5 +13,5 @@ To join the Unipisa organizzation on GitHub please fill [this form](https://form
 ---
 
 ## **Restrictions**  
-The Università di Pisa GitHub Organizzation is restricted to only accept current Università di Pisa students, faculty, staff. This is verified through [Autenticazione UNIPI](https://authportal.unipi.it/).
+The Università di Pisa GitHub Organizzation is restricted to only accept current Università di Pisa students, faculty, staff. This is verified through [Autenticazione UNIPI](https://autenticazione.unipi.it/).
 
