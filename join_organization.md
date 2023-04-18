@@ -7,8 +7,9 @@ permalink: /join_organization
 ---
 
 
-To join the Unipisa organizzation on GitHub please fill [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=MWtFxyCi9Ue-Ukc4KGcKoVkYUXAKGZRAiclN1st5aFpUMFRYOVRIUjJIT0JJMERMMTFCRTI2VVoySi4u).
+To join the Unipisa organizzation on GitHub please fill [this form](https://forms.office.com/e/XiEFxExdxE).
 
+You will receive an invitation mail from GitHub.com. Please accept it, then you will be able to request a [Student Developer Pack](https://unipisa.github.io/students)
 
 ---
 
